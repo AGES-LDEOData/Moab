@@ -1,35 +1,50 @@
 {
     "Ne20": {
-        "error": 24.194221207135207, 
-        "error_type": "SEM", 
+        "error": 24.19422090231425,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false, 
-            "iterations": 1, 
-            "std_devs": 2
-        }, 
-        "fit": "linear", 
-        "value": 11295.682995633435
-    }, 
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "Linear",
+        "fn": 100,
+        "include_baseline_error": false,
+        "n": 100,
+        "reviewed": true,
+        "value": 11295.682997234755
+    },
     "Ne21": {
-        "error": 1.2652551976847588, 
-        "error_type": "SEM", 
+        "error": 0.6028379249275505,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false, 
-            "iterations": 1, 
-            "std_devs": 2
-        }, 
-        "fit": "linear", 
-        "value": 94.51896138523259
-    }, 
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "Average",
+        "fn": 300,
+        "include_baseline_error": false,
+        "n": 300,
+        "reviewed": true,
+        "value": 94.40333333333334
+    },
     "Ne22": {
-        "error": 7.726242269448518, 
-        "error_type": "SEM", 
+        "error": 7.726242302216509,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false, 
-            "iterations": 1, 
-            "std_devs": 2
-        }, 
-        "fit": "linear", 
-        "value": 1259.0385365092757
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "Linear",
+        "fn": 100,
+        "include_baseline_error": false,
+        "n": 100,
+        "reviewed": true,
+        "value": 1259.0385361215067
     }
 }
